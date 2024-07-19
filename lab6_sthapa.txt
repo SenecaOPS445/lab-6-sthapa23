@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab6.py
+=================================================================
+    User login name: sthapa23
+    Linux system name: fedora
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/sthapa23/ops245/lab-6-sthapa23
+    Start at: Fri Jul 19 16:45:26 2024
+=================================================================
